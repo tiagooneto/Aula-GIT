@@ -10,7 +10,7 @@ O intuito deste repositório é aprender as melhores praticas de versionamento d
         - img
         - fonts
 - [x] Realizando primeiro commit
-- [ ] Estilo inicial CSS
+- [x] Estilo inicial CSS
 - [ ] Realizando segundo commit
 - [ ] Enviando ao github
 
@@ -21,3 +21,14 @@ O intuito deste repositório é aprender as melhores praticas de versionamento d
  |git status| Verifica o estado dos arquivos do projeto
  |git add| Prepara os arquivos para uma nova versão|
  |git commit -m"mensagem"|Cria uma nova versão|
+ |git remote| Verifica ou adiciona uma origem remota|
+ |git log| Verifica os commits presentes|
+ |git clone| Clona um repositório remoto|
+ |git push| Envia para o reporitório remoro a produção local|
+
+ ## Instruções de configuração GIT
+ | Instrução| Descrição|
+ |-|-|
+ |git config list| Lista as configurações|
+ |git config --global user.name| configura o nome de usuário|
+ |git config --global user.email| configura email do usuário|
